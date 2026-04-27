@@ -1,0 +1,11 @@
+[server]
+headless = true
+port = 10000
+enableXsrfProtection = false
+enableCORS = false
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = false
