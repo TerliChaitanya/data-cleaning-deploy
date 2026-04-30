@@ -28,7 +28,8 @@ build/
 Thumbs.db
 
 # Data files (if needed)
-*.csv
+# Allow CSV files in datasets folder
+!datasets/*.csv
 *.xlsx
 *.xls
 *.zip

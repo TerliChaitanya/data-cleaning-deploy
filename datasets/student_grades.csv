@@ -1,0 +1,21 @@
+student_id,student_name,subject,score,attendance,grade
+1,John Doe,Math,85,90,A
+2,Jane Smith,Math,,85,B
+3,Bob Johnson,Math,78,88,B
+4,Alice Williams,English,92,95,A
+5,Charlie Brown,English,45,70,C
+6,Diana Prince,English,88,,A
+7,Ethan Hunt,Science,95,92,A
+8,Fiona Apple,Science,72,80,B
+9,George Miller,Science,,75,B
+10,Hannah Montana,Math,150,88,A+
+11,Ivan Drago,English,55,60,D
+12,Julia Roberts,Science,89,93,A
+13,Kevin Hart,Math,,91,A
+14,Laura Palmer,English,76,82,B
+15,Mark Ruffalo,Science,88,85,A
+16,Natalie Wood,Math,92,96,A
+17,Oliver Stone,English,68,78,C
+18,Patricia Arquette,Science,,88,B
+19,Quincy Jones,Math,105,92,A
+20,Rachel Green,English,81,87,A
